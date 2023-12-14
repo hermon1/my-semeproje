@@ -26,6 +26,8 @@ www.one.com
 
 First clone down the project from github.
 
+run the Strapi on server.
+
 Then open the project and run `npm install` in the terminal.
 
 Next you can run:
